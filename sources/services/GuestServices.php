@@ -5,7 +5,7 @@ require_once ROOT . DS . 'services' . DS . 'TypeProductsServices.php';
 require_once ROOT . DS . 'mvc' . DS . 'models' . DS . 'Guest.php';
 require_once ROOT . DS . 'mvc' . DS . 'models' . DS . 'Bill.php';
 require_once ROOT . DS . 'mvc' . DS . 'models' . DS . 'products' . DS . 'Products.php';
-require_once ROOT . DS . 'mvc' . DS . 'models' . DS . 'products' . DS . "Type.php";
+require_once ROOT . DS . 'mvc' . DS . 'models' . DS . 'products' . DS . 'Type.php';
 
 class GuestServices extends MySqlConnect {
     /**
